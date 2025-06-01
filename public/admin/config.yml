@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ytngmyo/myolie
+  repo: ytngmyo/Lit-Up
   branch: main
 
 media_folder: "public/uploads"
